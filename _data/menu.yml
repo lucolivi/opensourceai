@@ -2,4 +2,11 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: "info <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>""
+  - title: Tensorflow
+    url: https://tensorflow.org
+
+  - title: Pytorch
+    url: https://pytorch.org
+
+  - title: MLFlow
+    url: https://mlflow.org
