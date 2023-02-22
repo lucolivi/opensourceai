@@ -1,3 +1,3 @@
-# Open source Artificial Intelligence Resources
+<!-- # Open source Artificial Intelligence Resources -->
 
-- [Tensorflow](https://www.tensorflow.org)
+<!-- - [Tensorflow](https://www.tensorflow.org) -->
