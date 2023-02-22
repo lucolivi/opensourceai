@@ -1,7 +1,7 @@
 title: Projetos de Inteligência Artificial Open Source # name of the site
 #author: Riccardo Graziosi # name of site's author
 #email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://www.openai.com.b # root address of the site
+url: https://www.openai.com.br # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A list of open source artificial intelligence resources.
