@@ -10,3 +10,6 @@ entries:
 
   - title: MLFlow
     url: https://mlflow.org
+    
+  - title: Spacy
+    url: https://spacy.io/
