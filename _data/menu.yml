@@ -8,5 +8,8 @@ entries:
   - title: Pytorch
     url: https://pytorch.org
 
+  - title: MLFlow
+    url: https://mlflow.org
+
   - title: MLFlow2
     url: https://mlflow.org
